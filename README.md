@@ -50,8 +50,32 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 Add your best project link here  
-🔹 Add 2–3 strong projects  
+
+### 🧠 Universal Compiler (Work in Progress)
+💻 A prototype GUI-based tool that detects programming language (Python, C, C++, Java) and compiles code into executables  
+
+🔧 Tech: Python, GUI (Tkinter / PyQt), Compiler Logic  
+📌 Status: Work in Progress  
+
+💻 Repo: https://github.com/iMrYaduvanshi/Universal_Compiler  
+
+---
+
+### 🎵 Spotify Music Recommendation System
+🎧 Machine Learning project that recommends songs based on user preferences using K-Means clustering  
+
+🔧 Tech: Python, Pandas, Scikit-learn, K-Means, Jupyter Notebook  
+
+💻 Repo: https://github.com/iMrYaduvanshi/Spotify-Music-Recommendation-System-Using-KMeans  
+
+---
+
+### 🏦 Mini Banking Application (CLI Based)
+💰 A command-line banking system built using Java that allows users to manage accounts, transactions, and basic banking operations  
+
+🔧 Tech: Java, OOP, CLI  
+
+💻 Repo: https://github.com/iMrYaduvanshi/Mini-Banking-Application  
 
 ---
 
