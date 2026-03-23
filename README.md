@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rituranjan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+%26+ML+Enthusiast;Data+Science+Learner;Always+Learning+🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+%26+ML+Enthusiast;React+Developer;Data+Science+Learner;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
 
 ---
@@ -9,72 +9,72 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE student at Haridwar University  
 - 💡 Passionate about AI, Machine Learning & Data Science  
-- 💻 Skilled in Java, DSA, Web Development  
-- ⚡ Love solving real-world problems  
-- 🤝 Team player & fast learner  
+- 💻 Skilled in Java, DSA, Web Development & React  
+- ⚡ Love building real-world projects  
+- 🤝 Quick learner & team player  
 
 ---
 
-## 🌐 Connect with Me
-- 📧 Email: ranjansinghritu4321@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/rituranjan-kumar-81a30a264  
+## 🌐 Portfolio
+
+### 🚀 Personal Portfolio Website  
+🎨 Built using React to showcase my projects, skills, and experience  
+
+🔗 **Live:** https://rituranjan.vercel.app/  
+⚛️ Tech: React, JavaScript, CSS  
 
 ---
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
----
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 
-## 💼 Experience
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 
-### 🔹 Java Full Stack Intern – EduSkills Foundation
-- Worked on Core Java, OOP, JDBC, Spring  
-- Built frontend using HTML, CSS, JavaScript  
-- Learned backend architecture  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
 
-### 🔹 AI Intern – Edunet Foundation
-- Worked on Python, ML, Data Analysis  
-- Used Pandas, NumPy, Matplotlib, Scikit-learn  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 
-### 🔹 Open Source Developer – GirlScript Summer of Code  
-
-### 🔹 Campus Ambassador – My Job Grow  
+  <!-- Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Universal Compiler (Work in Progress)
-💻 A prototype GUI-based tool that detects programming language (Python, C, C++, Java) and compiles code into executables  
+### 🧠 Universal Compiler  
+💻 Multi-language GUI tool to compile code into executables  
 
-🔧 Tech: Python, GUI (Tkinter / PyQt), Compiler Logic  
-📌 Status: Work in Progress  
-
+🔧 Tech: Python, GUI, Compiler Integration  
 💻 Repo: https://github.com/iMrYaduvanshi/Universal_Compiler  
 
 ---
 
-### 🎵 Spotify Music Recommendation System
-🎧 Machine Learning project that recommends songs based on user preferences using K-Means clustering  
+### 🎵 Spotify Music Recommendation System  
+🎧 ML-based song recommendation using K-Means clustering  
 
-🔧 Tech: Python, Pandas, Scikit-learn, K-Means, Jupyter Notebook  
-
+🔧 Tech: Python, Pandas, Scikit-learn  
 💻 Repo: https://github.com/iMrYaduvanshi/Spotify-Music-Recommendation-System-Using-KMeans  
 
 ---
 
-### 🏦 Mini Banking Application (CLI Based)
-💰 A command-line banking system built using Java that allows users to manage accounts, transactions, and basic banking operations  
+### 🏦 Mini Banking Application  
+💰 CLI-based banking system with core operations  
 
-🔧 Tech: Java, OOP, CLI  
-
+🔧 Tech: Java, OOP  
 💻 Repo: https://github.com/iMrYaduvanshi/Mini-Banking-Application  
 
 ---
@@ -104,8 +104,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=iMrYaduvanshi&theme=onedark)
+## 🌐 Connect with Me
+- 📧 Email: ranjansinghritu4321@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rituranjan-kumar-81a30a264  
 
 ---
 
