@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rituranjan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;AI+%26+ML+Enthusiast;Data+Science+Learner;Always+Learning+🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+%26+ML+Enthusiast;Data+Science+Learner;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
 
 ---
