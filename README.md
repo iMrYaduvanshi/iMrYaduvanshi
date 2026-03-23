@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200122,100:6f0000&height=250&section=header&text=Hi%20👋,%20I'm%20Rituranjan%20Kumar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200122,100:6f0000&height=250&section=header&text=Hi%20👋,%20I'm%20Rituranjan%20Kumar&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+%26+ML+Enthusiast;React+Developer;Data+Science+Learner;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
@@ -30,7 +30,7 @@
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=80&section=header&text=Tech%20Stack&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=90&section=header&text=Tech%20Stack&fontSize=28&fontColor=00ffff&animation=fadeIn"/>
 
 ### 💻 Programming Languages
 <p align="center">
@@ -118,7 +118,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:200122,100:6f0000&height=80&section=header&text=Projects&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:200122,100:6f0000&height=90&section=header&text=Featured%20Projects&fontSize=28&fontColor=00ffff&animation=scaleIn"/>
 
 ### 🧠 Universal Compiler  
 💻 Multi-language GUI tool to compile code into executables  
