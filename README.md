@@ -126,8 +126,8 @@
 🔧 Tech: Python, Pandas, Scikit-learn, CatBoost, Feature Engineering  
 📈 Highlights: Missing Value Imputation, EDA, Threshold Tuning, F1 Score Optimization  
 🏆 Result: Improved F1 Score from 0.16 (Baseline) to 0.55 using CatBoost and Probability Threshold Optimization  
-💻 Repo: https://github.com/iMrYaduvanshi/E-Commerce-Conversion-Prediction
-
+💻 Repo: [https://github.com/iMrYaduvanshi/E-Commerce-Conversion-Prediction
+](https://github.com/iMrYaduvanshi/E-Commerce-Conversion-Prediction-using-CatBoost)
 ### 🧠 Universal Compiler  
 💻 Multi-language GUI tool to compile code into executables  
 
