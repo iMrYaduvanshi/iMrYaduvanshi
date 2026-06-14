@@ -120,6 +120,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:200122,100:6f0000&height=90&section=header&text=Featured%20Projects&fontSize=28&fontColor=00ffff&animation=scaleIn"/>
 
+### 🛒 E-Commerce Conversion Prediction
+📊 Machine Learning solution to predict customer conversion using behavioral, demographic, and campaign data.
+
+🔧 Tech: Python, Pandas, Scikit-learn, CatBoost, Feature Engineering  
+📈 Highlights: Missing Value Imputation, EDA, Threshold Tuning, F1 Score Optimization  
+🏆 Result: Improved F1 Score from 0.16 (Baseline) to 0.55 using CatBoost and Probability Threshold Optimization  
+💻 Repo: https://github.com/iMrYaduvanshi/E-Commerce-Conversion-Prediction
+
 ### 🧠 Universal Compiler  
 💻 Multi-language GUI tool to compile code into executables  
 
