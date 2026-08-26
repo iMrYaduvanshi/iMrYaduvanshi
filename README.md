@@ -24,7 +24,7 @@
 🎨 Built using React to showcase my projects, skills, and experience  
 
 <p align="center">
-<a href="https://rituranjan.vercel.app/">
+<a href="https://my-portfolio-gules-psi-11.vercel.app/">
   <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=react"/>
 </a>
 </p>
